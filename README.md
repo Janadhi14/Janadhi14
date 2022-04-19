@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Janadhi14
-- 👀 I’m interested in code and charts
+- 👀 I’m interested in code and trading
+- 
