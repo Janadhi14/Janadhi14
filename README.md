@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Janadhi14
-- 👀 I’m interested in code and trading
+- 👋 Hi, I’m Janadhi :)
+- 👀 I’m interested in stuff 
