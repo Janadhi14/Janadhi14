@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Janadhi :)
-- 👀 I’m interested in stuff 
+- 👀 I’m interested in AI
+- 
