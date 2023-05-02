@@ -6,4 +6,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,c++,gitlab,,linux,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cplusplus,gitlab,,linux,html,css,wasm)](https://skillicons.dev)
