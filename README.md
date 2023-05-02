@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Janadhi :)
-- 👀 I’m interested in AI
+- 👀 I’m interested in literally everything!! and mostly machine learning
