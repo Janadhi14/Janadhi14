@@ -7,4 +7,4 @@
 
 ## <div align="center">My Skills:</div>
  
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,gitlab,tensorflow,linux,html,css)](https://skillicons.dev)
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=java,py,c,gitlab,tensorflow,linux,html,css)](https://skillicons.dev)</div>
