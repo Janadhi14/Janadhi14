@@ -5,15 +5,12 @@
 
 - 🌱 I’m currently learning **C, Web Development & Cryptography**
 
-- 👯 I’m looking to collaborate on **Cyber Security**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Janadhi14](https://github.com/Janadhi14)
 
 - 📝 I regularly write articles on [https://medium.com/@janadhi14](https://medium.com/@janadhi14)
 
 - 💬 Ask me about **Cyber Security**
 
-- 📫 How to reach me **janadhi1414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
