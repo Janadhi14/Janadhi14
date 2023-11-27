@@ -1,5 +1,5 @@
 <h3 align="center">Hello World, I'm Janadhi</h1>
-<h3 align="center">A CS Student from Dunedin</h3>
+<h6 align="center">A CS Student from Dunedin</h3>
 
 - 📖 I’m currently Studying A BSc in **Computer Science**
 
