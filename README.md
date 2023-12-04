@@ -1,5 +1,5 @@
 - <h3 align="center">Hello World, I'm [https://janadhi.me](Janadhi)</h1>
-[Janadhi](https://janadhi.me)
+👉🏼[Janadhi](https://janadhi.me)
 <h6 align="cevnter">A CS Student from Dunedin</h3>
 
 - 📖 I’m currently Studying A BSc in **Computer Science**
