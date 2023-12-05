@@ -1,4 +1,4 @@
-- <h3 align="center">Hello World, I'm Janadhi</h1>
+<h2 align="center">Hello World, I'm Janadhi</h1>
 👉🏼[Janadhi](https://janadhi.me)
 <h6 align="cevnter">A CS Student from Dunedin</h3>
 
