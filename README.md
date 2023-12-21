@@ -4,7 +4,7 @@
 
 - 📖 I’m currently Studying A BSc in **Computer Science**
 
-- 🌱 I’m currently learning **C, Web Development & Cryptography**
+- 🌱 I’m currently learning **C++, .NET & Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Janadhi14](https://github.com/Janadhi14)
 
