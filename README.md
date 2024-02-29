@@ -4,7 +4,7 @@
 
 - 📖 I’m currently in my Final Year of Studying A BSci in **Computer Science**
 
-- 🌱 I’m currently learning **C#, .NET & Unity**
+- 🌱 I’m currently learning **C#, .NET & C++**
 
 - 👨‍💻 All of my projects are available at https://github.com/Janadhi14
 
