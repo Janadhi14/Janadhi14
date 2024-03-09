@@ -1,4 +1,4 @@
-<h2 align="center">Hello World, I'm Jan</h1>
+<h2 align="center">Hello World, I'm Janadhi</h1>
 
 <h6 align="cevnter">A Final Year CS Student from Otago University</h3>
 
