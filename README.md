@@ -1,10 +1,8 @@
 <h2 align="center">Hello World, I'm Janadhi</h1>
 
-<h6 align="cevnter">A Final Year CS Student from Otago University</h3>
+<h6 align="cevnter">IT Intern Otago University</h3>
 
-- 📖 I’m currently in my Final Year of Studying A BSci in **Computer Science**
-
-- 🌱 I’m currently learning **C#, .NET & C++**
+- 📖 I’m currently an IT infrastructure intern at the University of Otago
 
 - 👨‍💻 All of my projects are available at https://github.com/Janadhi14
 
