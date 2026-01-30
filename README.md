@@ -1,5 +1,5 @@
-<h2 align="center">Hello World, I'm Jake</h1>
+<h2 align="center">Hello World</h1>
 
-- 📖 I’m currently a Network Engineering Intern @ The University of Otago
+- 📖 I’m currently a Cyber threat intelligence specialist @ The University of Otago
 
 
